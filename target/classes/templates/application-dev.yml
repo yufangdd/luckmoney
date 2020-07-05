@@ -1,7 +1,0 @@
-server:
-  port: 8090
-
-limit:
-  minMoney: 0.01
-  maxMoeny: 9999
-  description: 最少要发${limit.minMoney}元，最多发${limit.maxMoeny}元
